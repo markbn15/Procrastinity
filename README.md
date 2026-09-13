@@ -90,12 +90,13 @@
 # 1. Clona este repositorio
 git clone [https://github.com/markbn15/Procrastinity.git](https://github.com/markbn15/Procrastinity.git)
 
-# 2. Abre el proyecto en Android Studio
-
-# 3. Sincroniza los archivos Gradle
-
-# 4. Compila y ejecuta en un dispositivo o emulador
 ```
+ 2. Abre el proyecto en Android Studio
+
+ 3. Sincroniza los archivos Gradle
+
+ 4. Compila y ejecuta en un dispositivo o emulador
+
 ### ⭐ Apoya el Proyecto
 Si Procrastinity te ha servido para estructurar tus hábitos o como referencia técnica de desarrollo en Android:
 
