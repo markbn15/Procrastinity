@@ -3,7 +3,7 @@
 # 🚀 Procrastinity — Enfoque, Hábitos & Control de Dopamina
 
 <div align="center">
-  <img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/d4cddd70-83c5-4138-a338-2d4dd0e9ccfd" />
+  <img width="200" height="200" alt="icon" src="https://github.com/user-attachments/assets/d4cddd70-83c5-4138-a338-2d4dd0e9ccfd" />
 </div>
 
 
