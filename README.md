@@ -2,6 +2,10 @@
 
 # 🚀 Procrastinity — Enfoque, Hábitos & Control de Dopamina
 
+<div align="center">
+  <img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/d4cddd70-83c5-4138-a338-2d4dd0e9ccfd" />
+</div>
+
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
